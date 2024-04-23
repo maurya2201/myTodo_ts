@@ -1,0 +1,41 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#todo{
+  margin-top: 50px;
+  width: 300px;
+  text-align: center;
+  border: 2px solid black;
+  height:200px;
+  display: flex;
+  justify-content: center;
+  color:white; 
+  align-items: center;
+  flex-direction: column;
+  border-radius: 40px;
+}
+#todo input{
+  width: 250px;
+  border: 2px solid black;
+}
+.card{
+  margin-bottom: 20px;
+  text-align: center;
+  color: white;
+}
+ul{
+  list-style: none;
+  text-align: center;
+}
+li{
+  display: inline-block;
+  text-align: center;
+}

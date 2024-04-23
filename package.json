@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "todo-ts",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
